@@ -1,0 +1,63 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# ==========================
+# Jupyter / Notebook
+# ==========================
+.ipynb_checkpoints/
+.notebook/
+
+# ==========================
+# Training Artifacts
+# ==========================
+*.ckpt
+*.pth
+
+# Uncomment if you DON'T want to upload model weights
+# resnet18_model.pth
+
+# PyTorch Lightning Logs
+lightning_logs/
+
+# ==========================
+# Dataset Files
+# ==========================
+data/
+src/dataT/
+datasets/
+*.tar.gz
+*.zip
+
+# ==========================
+# Runtime Files
+# ==========================
+history.json
+
+# Uploaded Images
+static/uploads/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Docker
+# ==========================
+.dockerignore

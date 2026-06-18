@@ -1,0 +1,33 @@
+# =====================
+# CORE ML STACK
+# =====================
+torch>=2.2.0
+torchvision>=0.17.0
+numpy>=1.26.0
+pillow>=10.0.0
+
+# =====================
+# FASTAPI BACKEND
+# =====================
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+jinja2>=3.1.0
+python-multipart>=0.0.9
+
+# =====================
+# STATIC FILES + SERVER
+# =====================
+gunicorn>=21.2.0
+starlette>=0.36.0
+
+# =====================
+# IMAGE PROCESSING
+# =====================
+opencv-python>=4.9.0
+
+# =====================
+# UTILITIES
+# =====================
+tqdm>=4.66.0
+requests>=2.31.0
+pandas>=2.2.0
