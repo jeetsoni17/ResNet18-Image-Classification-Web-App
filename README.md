@@ -119,9 +119,3 @@ Grad-CAM visualizes which regions of the image the model focuses on when making 
 - Flask backend integration
 - Model interpretability with Grad-CAM
 - Debugging real-world ML pipelines
-
----
-
-## 👨‍💻 Author
-
-**Anuj Pandey**
