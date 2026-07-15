@@ -1,4 +1,4 @@
-# 🚀 ResNet Image Classification on Kubernetes with Custom Queue-Based Autoscaling
+#  ResNet Image Classification on Kubernetes with Custom Queue-Based Autoscaling
 
 A cloud-native image classification system built using **PyTorch, Docker, Kubernetes, Redis, and Minikube**, designed to evaluate different autoscaling strategies for AI inference workloads.
 
